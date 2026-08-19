@@ -5,3 +5,5 @@ I am learning how Git tracks changes.
 
 This change was developed on a separate Git branch
 
+This line was added directly on main.
+
